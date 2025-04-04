@@ -36,10 +36,58 @@ To get started with the Dating App:
 
   Ensure you have Node.js installed. Then, install the project dependencies:
   
+      npm install
+4. **Run the Application**:
+- Cd to the API and run:
   ```bash
-  npm install
+     dotnet watch
+  
+## Usage
+- Accessing the App: Open your browser and navigate to your {{url}} that you will see it on the terminal when the app runs so that you can access the app.
 
+- User Registration: Click on the "Sign Up" button on the homepage to register a new account.
 
+- Profile Creation: After logging in, complete your profile by adding personal information and preferences.
 
+- Finding Matches: Browse through user profiles and find potential matches.
+
+- Messaging: Connect with people through the real-time messaging feature available in the user dashboard.
+
+  ## Future Enhancements
+- Add Matching Function   
+  - Add the swiping functionality to it.      
+  - Implement machine learning or compatibility scoring to provide more personalized matches.   
+  - Incorporate behavioral analytics (e.g., swipes, interactions) to refine match suggestions.   
+  
+- Enhanced Chat Functionality
+   - Add support for voice messages or video calls.
+  
+- Social Media & Third-Party Integrations
+   - Enable social login (e.g., Facebook, Google, Apple) for a smoother registration process.
+   - Integrate with social media platforms to allow users to share their profiles or match experiences.
+  
+- Geolocation Features
+   - Use geolocation APIs to show nearby matches and filter results by distance.
+   - Provide location-based notifications for events or meetups.
+  
+- Push Notifications & In-App Alerts
+   - Implement push notifications for new messages, match suggestions, or profile views.
+   - Add customizable in-app alerts to keep users engaged.
+
+- UI/UX Improvements
+     - Refine the user interface with a responsive design and modern aesthetics.
+     - Introduce dark mode and accessibility enhancements to improve usability.
+  
+
+## Contributing
+ Contributions are welcome! If you’d like to contribute, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Commit your changes with clear and descriptive commit messages.
+
+4. Push your branch and open a Pull Request. 
 
 
