@@ -2,7 +2,9 @@
 
 ## Overview
 
-Welcome to the **Dating App** repository! This project is a web application developed using ASP.NET API and Angular, designed to facilitate online dating services. It provides a seamless platform for users to create profiles, browse potential matches, and engage in meaningful conversations.
+Welcome to the **Dating App** repository! This project is a web application developed using ASP.NET API and Angular, designed to facilitate online dating services. It provides a seamless platform for users to create profiles, browse potential matches, and engage in meaningful conversations.  
+#### Note: This project currently serves as a template. In the future, when I have more time, I plan to enhance it further to resemble popular dating apps like Tinder and Bumble. However, I’m currently busy with other real-life projects. With continued refinement and new features, it has the potential to evolve into an outstanding dating platform.
+
 
 ## Features
 
